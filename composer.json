@@ -1,0 +1,15 @@
+{
+    "name": "firebase/chat-realtime",
+    "description": "chat real time firebase php",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Nguyen Huu Nghia",
+            "email": "nguyenhuunghia152@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog": "^2.0@dev"
+    }
+}
